@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_foreground.png",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_profile.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_profile.xml"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_user.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_user.xml"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_chat.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_setting.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\JUST CHAT APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_register.xml",
+        "source": "F:\\JUST CHAT APP\\app\\src\\main\\res\\layout-land\\activity_register.xml"
+    }
+]
